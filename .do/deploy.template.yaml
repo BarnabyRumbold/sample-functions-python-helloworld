@@ -5,7 +5,7 @@ functions:
 - github:
     branch: master
     deploy_on_push: true
-    repo: digitalocean/sample-functions-python-helloworld
+    repo: BarnabyRumbold/sample-functions-python-helloworld
   name: py-api
   routes:
   - path: /
