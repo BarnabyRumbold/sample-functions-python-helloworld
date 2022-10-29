@@ -1,6 +1,6 @@
 def main(args):
       name = args.get("name", "stranger")
-      greeting = "Hello " + name + "!"
+      greeting = "Yo Yo!"
       print(greeting)
       return {"body": greeting}
   
