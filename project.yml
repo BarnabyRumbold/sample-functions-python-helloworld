@@ -1,5 +1,5 @@
 packages:
-  - name: sample
+  - name: medito
     actions:
       - name: hello
         runtime: 'python:default'

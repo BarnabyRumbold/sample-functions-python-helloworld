@@ -10,4 +10,5 @@ functions:
   routes:
   - path: /
   source_dir: /
-name: python-helloworld
+name: python-medito
+
