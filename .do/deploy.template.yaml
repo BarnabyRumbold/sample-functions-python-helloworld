@@ -10,5 +10,5 @@ functions:
   routes:
   - path: /
   source_dir: /
-name: python-medito
+name: python-💻_Load_Data
 

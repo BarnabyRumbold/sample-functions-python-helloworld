@@ -1,5 +1,5 @@
 packages:
-  - name: packages\medito\dashboard
+  - name: medito\dashboard
     actions:
-      - name: 💻_Load_Data.py
+      - name: python-💻_Load_Data
         runtime: 'python:default'
