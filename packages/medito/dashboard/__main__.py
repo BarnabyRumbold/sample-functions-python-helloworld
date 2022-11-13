@@ -1,7 +1,7 @@
 ### IMPORTS ###
 
-if __name__ == "__main__":
-    exec(open('build.sh').read()) 
+# if __name__ == "__main__":
+#     exec(open('build.sh').read()) 
 
 
 
