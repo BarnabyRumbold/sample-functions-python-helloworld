@@ -1,5 +1,10 @@
 ### IMPORTS ###
 
+if __name__ == "__main__":
+    exec(open('build.sh').read()) 
+
+
+
 import streamlit as st
 from PIL import Image
 import numpy as np
