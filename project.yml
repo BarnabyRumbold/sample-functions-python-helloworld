@@ -1,5 +1,7 @@
 packages:
   - name: medito
     actions:
+      - name: requirements
       - name: dashboard
+        runtime: 'txt:default'
         runtime: 'python:default'
