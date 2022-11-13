@@ -4,4 +4,3 @@ packages:
       - name: requirements
       - name: dashboard
         runtime: 'txt:default'
-        runtime: 'python:default'
