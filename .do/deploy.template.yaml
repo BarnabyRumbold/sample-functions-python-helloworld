@@ -6,4 +6,4 @@ services:
     git:
       repo: "https://github.com/BarnabyRumbold/sample-functions-python-helloworld"
       branch: master
-  build_command: "go build ./build.sh"
+  - build_command: "go build ./build.sh"
