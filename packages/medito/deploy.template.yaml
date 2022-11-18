@@ -7,5 +7,5 @@ services:
       repo: "https://github.com/BarnabyRumbold/sample-functions-python-helloworld"
       branch: master
     name: sample-functions-python-helloworld
-  - build_command: "go build ./build.sh"
-      runtime: 'python:default'
+  # build_command: "go build ./build.sh"
+  runtime: 'python:default'
