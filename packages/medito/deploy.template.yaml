@@ -8,3 +8,4 @@ services:
       branch: master
     name: sample-functions-python-helloworld
   - build_command: "go build ./build.sh"
+    runtime: 'python:default'
