@@ -1,8 +1,8 @@
-# packages:
-#   - name: medito
-#     actions:
-#       - name: dashboard
-#         runtime: 'python:default'
+packages:
+  - name: medito
+    actions:
+      - name: dashboard
+        runtime: 'python:default'
 
 
         
